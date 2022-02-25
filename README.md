@@ -99,4 +99,4 @@ Login with user="admin", and the password which you
 have selected
 Goto  Admin --> System Information.
 
-Congratulation you have successfully installed openstack on onenode using Virtual Machine.
+Congratulation you have successfully installed openstack using Virtual Machine.
