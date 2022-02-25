@@ -17,7 +17,7 @@ For this installation I will be using Virtualbox with Networking setting to brid
 
 ## Installation
 
-Download Vmware Workstation and install ubuntu 20.04.03
+Download Vmware Workstation/Virtualbox and install ubuntu 20.04.03
 on it. Run the following commands.
 
 ```bash
