@@ -3,7 +3,7 @@
 
 OpenStack is used as Infrstrcture-as-a-Service (IaaS), being used to build and manage both public and private cloud. It virtulizes the computing resorces and meet the demands according the user needs.
 
-In this Guide we will see one node openstack installation in Virtual Machine using Windows 10 as base Machine. Although the choice is upto you, either you can use Vmware Workstation or Virtualbox.
+In this Guide we will see openstack installation in Virtual Machine using Windows 10 as base Machine. Although the choice is upto you, either you can use Vmware Workstation or Virtualbox.
 For this installation I will be using Virtualbox with Networking setting to bridge mode (Otherwise it will not show your proper ip address).
 
 
